@@ -21,12 +21,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/go-cmp/cmp"
-	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/google/go-cmp/cmp/internal/flags"
+	"github.com/drlogout/go-cmp/cmp"
+	"github.com/drlogout/go-cmp/cmp/cmpopts"
+	"github.com/drlogout/go-cmp/cmp/internal/flags"
 
-	pb "github.com/google/go-cmp/cmp/internal/testprotos"
-	ts "github.com/google/go-cmp/cmp/internal/teststructs"
+	pb "github.com/drlogout/go-cmp/cmp/internal/testprotos"
+	ts "github.com/drlogout/go-cmp/cmp/internal/teststructs"
 )
 
 func init() {

@@ -11,8 +11,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/google/go-cmp/cmp/internal/flags"
-	"github.com/google/go-cmp/cmp/internal/value"
+	"github.com/drlogout/go-cmp/cmp/internal/flags"
+	"github.com/drlogout/go-cmp/cmp/internal/value"
 )
 
 type formatValueOptions struct {

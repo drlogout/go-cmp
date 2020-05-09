@@ -28,17 +28,17 @@ See the [documentation][godev] for more information.
 
 This is not an official Google product.
 
-[godev]: https://pkg.go.dev/github.com/google/go-cmp/cmp
+[godev]: https://pkg.go.dev/github.com/drlogout/go-cmp/cmp
 [travis]: https://travis-ci.org/google/go-cmp
 
 ## Install
 
 ```
-go get -u github.com/google/go-cmp/cmp
+go get -u github.com/drlogout/go-cmp/cmp
 ```
 
 ## License
 
 BSD - See [LICENSE][license] file
 
-[license]: https://github.com/google/go-cmp/blob/master/LICENSE
+[license]: https://github.com/drlogout/go-cmp/blob/master/LICENSE

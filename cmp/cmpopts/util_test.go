@@ -16,7 +16,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/google/go-cmp/cmp"
+	"github.com/drlogout/go-cmp/cmp"
 	"golang.org/x/xerrors"
 )
 

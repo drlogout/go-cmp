@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/google/go-cmp/cmp"
+	"github.com/drlogout/go-cmp/cmp"
 )
 
 // filterField returns a new Option where opt is only evaluated on paths that

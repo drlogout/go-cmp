@@ -5,7 +5,7 @@
 package cmpopts
 
 import (
-	"github.com/google/go-cmp/cmp"
+	"github.com/drlogout/go-cmp/cmp"
 )
 
 type xformFilter struct{ xform cmp.Option }

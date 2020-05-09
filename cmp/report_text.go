@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/go-cmp/cmp/internal/flags"
+	"github.com/drlogout/go-cmp/cmp/internal/flags"
 )
 
 var randBool = rand.New(rand.NewSource(time.Now().Unix())).Intn(2) == 0

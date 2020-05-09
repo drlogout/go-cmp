@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/google/go-cmp/cmp/internal/value"
+	"github.com/drlogout/go-cmp/cmp/internal/value"
 )
 
 // TODO: Enforce limits?
